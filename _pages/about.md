@@ -8,8 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-======
-I'm a senior undergraduate student from [Renmin University of China](https://ruc.edu.cn/), [GSAI](http://ai.ruc.edu.cn/). My research interest includes Machine Learning, Natural Language Processing and LLM Theory and Algorithms.
-I am very fortunate to be advised by [Prof. Liu](https://gsai.ruc.edu.cn/liuyong) from [Gaoli School of Artificial Intelligence](http://ai.ruc.edu.cn/), Renmin University of China. 
+
+$\textcolor{red}{Education & Career History}$
+PhD student	[Renmin University of China](https://ruc.edu.cn/)	2024 – Presen
+Undergrad student	[Renmin University of China](https://ruc.edu.cn/)	2020 – 2024
+
+I am a senior undergraduate at [Renmin University of China](https://ruc.edu.cn/), currently completing my degree at the [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/). In September 2024, I will commence my doctoral studies under the guidance of [Prof. Liu](https://gsai.ruc.edu.cn/liuyong), focusing on the **Foundation Theories of Big Models**.
 
 [Email](yaoxinhao021978@ruc.edu.cn) / [Github](https://github.com/chen123CtrlS/) 
