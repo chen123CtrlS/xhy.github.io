@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-$\textcolor{red}{Education & Career History}$
+$\textcolor{red}{Education \& Career History}$
 PhD student	[Renmin University of China](https://ruc.edu.cn/)	2024 – Presen
 Undergrad student	[Renmin University of China](https://ruc.edu.cn/)	2020 – 2024
 
